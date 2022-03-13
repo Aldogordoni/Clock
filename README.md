@@ -1,2 +1,2 @@
-# Clock
-Creating clocks with different designs in multiple languages
+# Clock!
+Clock wrote with p5.js, implemented for VSCode
